@@ -1,0 +1,14 @@
+{
+  "name": "node_test",
+  "version": "0.0.1",
+  "private": true,
+  "directories": {
+    "lib": "./lib",
+    "doc": "./doc"
+  },
+  "dependencies": {
+    "nodeunit": "0.9.1",
+    "unit.js": "latest",
+    "mocha": "latest"
+  }
+}
